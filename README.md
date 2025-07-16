@@ -16,6 +16,14 @@ A professional, minimalist web platform for alumni associations, enabling alumni
 
 ---
 
+## Screenshots
+
+| Home Page | Job Portal | Events | Donations | Profile |
+|-----------|------------|--------|-----------|---------|
+| ![Home](web/public/screenshot-1.png) | ![Jobs](web/public/screenshot-2.png) | ![Events](web/public/screenshot-3.png) | ![Donations](web/public/screenshot-4.png) | ![Profile](web/public/screenshot-5.png) |
+
+---
+
 ## Tech Stack
 
 - **Frontend**: React (Create React App), Material-UI, CSS
