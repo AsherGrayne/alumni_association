@@ -20,7 +20,7 @@ A professional, minimalist web platform for alumni associations, enabling alumni
 
 | Home Page | Job Portal | Events | Donations | Profile |
 |-----------|------------|--------|-----------|---------|
-| ![Home](web/public/screenshot-1.png) | ![Jobs](web/public/screenshot-2.png) | ![Events](web/public/screenshot-3.png) | ![Donations](web/public/screenshot-4.png) | ![Profile](web/public/screenshot-5.png) |
+| ![Home](public/screenshot-1.png) | ![Jobs](public/screenshot-2.png) | ![Events](public/screenshot-3.png) | ![Donations](public/screenshot-4.png) | ![Profile](public/screenshot-5.png) |
 
 ---
 
